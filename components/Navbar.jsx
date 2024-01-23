@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className={styles.nav}>
         <p>Next.js</p>
         <ul className={styles.links}>
-          <Link href="/">
+          <Link href="/home">
             <li>Home 🏠 </li>
           </Link>
           <Link href="/about">
